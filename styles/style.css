@@ -9,9 +9,9 @@ body {
 
 #game-container {
   display: flex;
+  justify-content: space-around;
   width: 100vw;
   padding: 20px 0px;
-  justify-content: center;
 }
 
 #game-screen {
